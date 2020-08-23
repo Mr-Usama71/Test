@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-style: oblique;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+    font-style:initial;
+  }
+  p{
+    font-family: courier;
+    font-size: 160%;
+  }
+  p2{
+    font-size: xx-large; color: black;
+  }
+  img{
+    height="220" width="400";
+  }
